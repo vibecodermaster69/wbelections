@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wb-election-pipeline"
+version = "0.1.0"
+description = "West Bengal 2021 Form 20 booth parser and 2026 booth-level simulation pipeline"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.0",
+  "requests>=2.31",
+  "pdfplumber>=0.10",
+  "numpy>=1.24",
+  "llama-cloud>=1.0",
+  "llama-cloud-services>=0.6",
+  "markitdown[pdf]>=0.1.5",
+  "markitdown-ocr>=0.1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+wb-election = "wb_election_pipeline.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
