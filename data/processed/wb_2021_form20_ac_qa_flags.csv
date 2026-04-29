@@ -1,0 +1,91 @@
+ac_no,ac_name,has_pdf,has_ocr_markdown,selected_source,rows,booths,candidate_count,candidate_votes_sum_raw,ac_level_total_electors,total_rows_with_valid_total,total_field_coverage,status,qa_flags
+1,,True,True,ocr_llamacloud,68,56,5,14510,22646.0,17,0.25,parsed,low_booth_count
+3,,True,True,ocr_llamacloud,250,73,15,48807,,105,0.42,parsed,low_booth_count
+5,,True,True,ocr_llamacloud,209,42,10,25920,,5,0.024,parsed,low_booth_count;low_total_field_coverage
+6,,True,True,ocr_llamacloud,904,138,28,89827,290568.0,412,0.456,parsed,low_booth_count
+7,,True,True,ocr_llamacloud,925,170,16,112330,299251.0,173,0.187,parsed,low_total_field_coverage
+8,of 13,True,True,ocr_llamacloud,1148,222,26,122220,245040.0,276,0.24,parsed,low_total_field_coverage
+11,,True,True,ocr_llamacloud,497,51,20,32798,247425.0,11,0.022,parsed,low_booth_count;low_total_field_coverage
+14,,True,True,ocr_llamacloud,647,145,13,67981,12651.0,427,0.66,parsed,low_booth_count
+15,,True,True,ocr_llamacloud,1451,202,22,153231,263118.0,142,0.098,parsed,low_total_field_coverage
+18,,True,True,ocr_llamacloud,323,51,12,23206,,101,0.313,parsed,low_booth_count
+19,,True,True,ocr_llamacloud,432,84,17,24479,,409,0.947,parsed,low_booth_count
+21,,True,True,ocr_llamacloud,577,77,11,87463,,8,0.014,parsed,low_booth_count;low_total_field_coverage
+22,Kalimpong (in the case of election from a Parliamentary Constituency),True,True,ocr_llamacloud,494,71,26,30113,209760.0,46,0.093,parsed,low_booth_count;low_total_field_coverage
+24,,True,True,ocr_llamacloud,973,221,43,137708,236477.0,185,0.19,parsed,low_total_field_coverage
+26,,True,True,ocr_llamacloud,221,25,11,13621,,221,1.0,parsed,low_booth_count
+27,,True,True,ocr_llamacloud,48,25,2,5734,240496.0,1,0.021,parsed,low_booth_count;low_total_field_coverage
+29,Islampur,True,True,ocr_llamacloud,174,35,5,18666,,164,0.943,parsed,low_booth_count
+30,Goalpokhar,True,True,ocr_llamacloud,516,93,20,38610,,252,0.488,parsed,low_booth_count
+31,Chakulia,True,True,ocr_llamacloud,366,65,7,47845,,162,0.443,parsed,low_booth_count
+32,,True,True,ocr_llamacloud,1842,279,56,144877,262583.0,218,0.118,parsed,low_total_field_coverage
+33,,True,True,ocr_llamacloud,780,216,8,78655,265318.0,170,0.218,parsed,low_total_field_coverage
+34,,True,True,ocr_llamacloud,168,22,7,4849,282575.0,119,0.708,parsed,low_booth_count
+35,,True,True,ocr_llamacloud,602,56,14,36620,198780.0,246,0.409,parsed,low_booth_count
+36,ITAHAR,True,True,ocr_llamacloud,576,91,15,51355,229362.0,0,0.0,parsed,low_booth_count;low_total_field_coverage
+38,Kumarganj AC,True,True,ocr_llamacloud,438,120,8,46028,203996.0,387,0.884,parsed,low_booth_count
+39,BALURGHAT,True,True,ocr_llamacloud,1182,162,21,95156,180390.0,134,0.113,parsed,low_total_field_coverage
+41,Gangarampur (SC),True,True,ocr_llamacloud,603,167,17,88688,221040.0,74,0.123,parsed,low_total_field_coverage
+43,,True,True,ocr_llamacloud,390,103,3,44429,249552.0,0,0.0,parsed,low_booth_count;low_total_field_coverage
+46,,True,True,ocr_llamacloud,238,56,10,17353,252487.0,146,0.613,parsed,low_booth_count
+48,,True,True,ocr_llamacloud,2143,306,20,273540,282451.0,104,0.049,parsed,low_total_field_coverage
+50,MALDAHA (SC),True,True,ocr_llamacloud,493,76,8,45048,245961.0,265,0.538,parsed,low_booth_count
+51,ENGLISH BAZAR,True,True,ocr_llamacloud,2283,346,17,281490,,25,0.011,parsed,low_total_field_coverage
+53,SUJAPUR,True,True,ocr_llamacloud,2566,286,39,200781,251186.0,481,0.187,parsed,low_total_field_coverage
+59,RAGHUNATHGANJ,True,True,ocr_llamacloud,1948,349,15,167506,,0,0.0,parsed,low_total_field_coverage
+60,SAGARDIGHI,True,True,ocr_llamacloud,1839,299,28,132346,,22,0.012,parsed,low_total_field_coverage
+61,LALGOLA,True,True,ocr_llamacloud,987,125,33,100918,,397,0.402,parsed,low_booth_count
+62,BHAGAWANGOLA,True,True,ocr_llamacloud,1071,140,37,84947,,557,0.52,parsed,low_booth_count
+69,,True,True,ocr_llamacloud,1598,281,27,189482,,231,0.145,parsed,low_total_field_coverage
+70,,True,True,none,0,0,0,0,,0,0.0,ocr_done_parse_failed,ocr_markdown_unparsed
+74,,True,True,ocr_llamacloud,694,125,22,84704,247688.0,202,0.291,parsed,low_booth_count
+75,Domkal,True,True,ocr_llamacloud,803,105,25,47495,266283.0,475,0.592,parsed,low_booth_count
+76,JALANGI,True,True,ocr_llamacloud,1535,179,33,127459,261258.0,329,0.214,parsed,low_total_field_coverage
+77,KARIMPUR,True,True,ocr_llamacloud,238,34,7,22577,,189,0.794,parsed,low_booth_count
+79,PALASHIPARA,True,True,ocr_llamacloud,407,140,10,49094,,202,0.496,parsed,low_booth_count
+80,Kaliganj,True,True,ocr_llamacloud,1552,265,43,259491,248363.0,157,0.101,parsed,low_total_field_coverage
+82,Chapra,True,True,ocr_llamacloud,699,100,15,50715,248014.0,139,0.199,parsed,low_booth_count;low_total_field_coverage
+84,Nabadwip,True,True,ocr_llamacloud,121,35,6,2485,243159.0,121,1.0,parsed,low_booth_count
+85,Krishnanagar Dakshin,True,True,ocr_llamacloud,359,67,9,23687,,204,0.568,parsed,low_booth_count
+86,,True,True,ocr_llamacloud,565,141,9,83878,259.0,3,0.005,parsed,low_booth_count;low_total_field_coverage
+88,,True,True,ocr_llamacloud,351,96,7,29423,,51,0.145,parsed,low_booth_count;low_total_field_coverage
+89,,True,True,ocr_llamacloud,767,85,13,82928,,327,0.426,parsed,low_booth_count
+90,,True,True,ocr_llamacloud,251,71,7,43274,,7,0.028,parsed,low_booth_count;low_total_field_coverage
+91,Chakdaha,True,True,ocr_llamacloud,551,88,21,54130,245514.0,89,0.162,parsed,low_booth_count;low_total_field_coverage
+93,,True,True,ocr_llamacloud,294,136,7,42606,240606.0,0,0.0,parsed,low_booth_count;low_total_field_coverage
+94,of 24,True,True,ocr_llamacloud,470,102,15,78924,,294,0.626,parsed,low_booth_count
+95,,True,True,none,0,0,0,0,,0,0.0,ocr_done_parse_failed,ocr_markdown_unparsed
+96,,True,True,none,0,0,0,0,,0,0.0,ocr_done_parse_failed,ocr_markdown_unparsed
+99,BADURIA,True,True,ocr_llamacloud,181,32,11,24132,243747.0,72,0.398,parsed,low_booth_count
+100,HABRA,True,True,ocr_llamacloud,266,39,23,38025,242425.0,10,0.038,parsed,low_booth_count;low_total_field_coverage
+101,ASHOKNAGAR,True,True,ocr_llamacloud,396,62,18,43630,,77,0.194,parsed,low_booth_count;low_total_field_coverage
+102,of 21,True,True,ocr_llamacloud,425,75,19,33387,,28,0.066,parsed,low_booth_count;low_total_field_coverage
+103,,True,True,ocr_llamacloud,407,90,17,40839,192316.0,175,0.43,parsed,low_booth_count
+105,,True,True,ocr_llamacloud,843,78,32,79811,154037.0,0,0.0,parsed,low_booth_count;low_total_field_coverage
+106,,True,True,ocr_llamacloud,821,71,15,274323,233871.0,97,0.118,parsed,low_booth_count;low_total_field_coverage
+107,,True,True,ocr_llamacloud,298,87,3,19894,262153.0,0,0.0,parsed,low_booth_count;low_total_field_coverage
+108,,True,True,ocr_llamacloud,424,114,10,44977,215356.0,161,0.38,parsed,low_booth_count
+109,KHARDAH,True,True,ocr_llamacloud,111,47,7,7057,,111,1.0,parsed,low_booth_count
+110,of 19,True,True,ocr_llamacloud,839,194,9,123657,273015.0,100,0.119,parsed,low_total_field_coverage
+111,,True,True,native_pdf,1485,248,83,452780,,0,0.0,parsed,low_total_field_coverage
+112,,True,True,ocr_llamacloud,193,25,8,12391,7103.0,8,0.041,parsed,low_booth_count;low_total_field_coverage
+114,,True,True,ocr_llamacloud,269,133,2,49849,247958.0,23,0.086,parsed,low_booth_count;low_total_field_coverage
+115,RAJARHAT NEW TOWN,True,True,ocr_llamacloud,892,197,11,129332,289045.0,169,0.189,parsed,low_total_field_coverage
+116,,True,True,none,0,0,0,0,,0,0.0,ocr_done_parse_failed,ocr_markdown_unparsed
+117,C,True,True,ocr_llamacloud,177,40,10,14560,257447.0,5,0.028,parsed,low_booth_count;low_total_field_coverage
+118,,True,True,none,0,0,0,0,,0,0.0,ocr_done_parse_failed,ocr_markdown_unparsed
+119,,True,True,ocr_llamacloud,170,29,6,14427,279592.0,150,0.882,parsed,low_booth_count
+138,Canning Paschim (SC),True,False,native_pdf,2154,358,66,138785,257681.0,0,0.0,parsed,low_total_field_coverage
+145,Satgachia,True,False,native_pdf,1880,375,60,216890,270193.0,0,0.0,parsed,low_total_field_coverage
+151,Sonarpur Uttar,True,False,native_pdf,3024,399,84,235737,300330.0,0,0.0,parsed,low_total_field_coverage
+155,Maheshtala,True,False,native_pdf,1860,370,60,151270,271007.0,0,0.0,parsed,low_total_field_coverage
+170,HOWRAH UTTAR,True,False,native_pdf,3660,305,90,81784,,0,0.0,parsed,low_total_field_coverage
+180,BAGNAN,True,False,native_pdf,1926,321,42,122244,,0,0.0,parsed,low_total_field_coverage
+190,,True,False,native_pdf,3132,348,171,173651,,0,0.0,parsed,low_total_field_coverage
+194,,True,False,native_pdf,1430,286,75,155880,,0,0.0,parsed,low_total_field_coverage
+196,,True,False,native_pdf,1500,300,80,134356,,0,0.0,parsed,low_total_field_coverage
+202,KHANAKUL,True,False,native_pdf,1940,385,55,5638591,277259.0,0,0.0,parsed,low_total_field_coverage
+220,NAYAGRAM (ST),True,False,native_pdf,1968,328,126,86692,226791.0,0,0.0,parsed,low_total_field_coverage
+261,Raina (SC),True,False,native_pdf,1440,360,60,222889,258556.0,0,0.0,parsed,low_total_field_coverage
+272,,True,False,native_pdf,1404,351,60,105343,251003.0,0,0.0,parsed,low_total_field_coverage
+283,,True,False,native_pdf,1493,249,83,216841,,0,0.0,parsed,low_total_field_coverage

@@ -1,0 +1,7 @@
+{
+  "source_pdf": "data\\raw\\form20\\13_Form20.pdf",
+  "provider": "nutrient",
+  "credential_name": "NUTRIENT_API_KEY",
+  "text_path": "data\\ocr_nutrient_target\\nutrient_text\\13_Form20.txt",
+  "searchable_pdf_path": "data\\ocr_nutrient_target\\nutrient_searchable_pdfs\\13_Form20.pdf"
+}

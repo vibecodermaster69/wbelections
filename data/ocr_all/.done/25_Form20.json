@@ -1,0 +1,7 @@
+{
+  "source_pdf": "data\\raw\\form20\\25_Form20.pdf",
+  "provider": "llamacloud",
+  "credential_name": "LLAMA_CLOUD_API_KEY_1",
+  "text_path": "data\\ocr_all\\llamacloud_markdown\\25_Form20.md",
+  "searchable_pdf_path": null
+}

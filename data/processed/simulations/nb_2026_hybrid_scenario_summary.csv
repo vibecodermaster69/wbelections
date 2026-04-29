@@ -1,0 +1,6 @@
+scenario_id,scenario,bjp_seats,tmc_seats,toss_up_or_lean,avg_winner_confidence_pct
+neutral,Neutral,33,21,8,88.95
+bjp_moderate,BJP moderate (+2pp),35,19,1,91.82
+bjp_surge,BJP surge (+4pp),38,16,3,93.26
+tmc_consolidation,TMC consolidation (-3pp),25,29,5,86.43
+tmc_defence,TMC defence (-5pp),22,32,8,85.67

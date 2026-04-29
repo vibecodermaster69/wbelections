@@ -1,0 +1,7 @@
+{
+  "source_pdf": "data\\raw\\form20\\34_Form20.pdf",
+  "provider": "gemini_ocr",
+  "credential_name": "GEMINI_API_KEY_3",
+  "text_path": "data\\ocr_all\\gemini_ocr_markdown\\34_Form20.md",
+  "searchable_pdf_path": null
+}

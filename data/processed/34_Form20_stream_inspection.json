@@ -1,0 +1,387 @@
+{
+  "pdf": "data\\raw\\form20\\34_Form20.pdf",
+  "pages": 17,
+  "xref_length": 56,
+  "stream_count": 34,
+  "total_raw_stream_bytes": 3624087,
+  "total_decoded_stream_bytes": 75203512,
+  "document_markers": {
+    "has_cidfont": false,
+    "has_tounicode": false,
+    "has_identity_h": false,
+    "has_bengali_utf8_bytes": true
+  },
+  "aggregate_raw": {
+    "bytes": 3624087,
+    "ascii_serial_token_count": 106692,
+    "ascii_serial_unique_count": 195,
+    "ascii_serial_min": 1,
+    "ascii_serial_max": 9898,
+    "pdf_text_operator_count": 117,
+    "hex_string_count": 0,
+    "ascii_serial_samples": [
+      "x+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±",
+      "+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000b",
+      "P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bßÿØÿà",
+      "÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bßÿØÿà\u0000\u0010JFIF\u0000",
+      "c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bßÿØÿà\u0000\u0010JFIF\u0000\u0001\u0001\u0001\u0000d\u0000d\u0000\u0000ÿÛ",
+      "\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t",
+      "\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182",
+      "\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!",
+      "' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!22222",
+      "9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!222222222222222222222",
+      "\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3",
+      "\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a"
+    ]
+  },
+  "aggregate_decoded": {
+    "bytes": 4250952,
+    "ascii_serial_token_count": 34,
+    "ascii_serial_unique_count": 2,
+    "ascii_serial_min": 737,
+    "ascii_serial_max": 1036,
+    "pdf_text_operator_count": 0,
+    "hex_string_count": 0,
+    "ascii_serial_samples": [
+      "q\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ",
+      "êq\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ",
+      "êq\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ",
+      "êq\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ",
+      "êq\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ",
+      "êq\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+      "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\nÿÿÿ"
+    ]
+  },
+  "sample_streams": [
+    {
+      "xref": 5,
+      "raw": {
+        "bytes": 52,
+        "ascii_serial_token_count": 5,
+        "ascii_serial_unique_count": 4,
+        "ascii_serial_min": 2,
+        "ascii_serial_max": 9,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "x+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±",
+          "+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000b",
+          "P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß"
+        ]
+      },
+      "decoded": {
+        "bytes": 56,
+        "ascii_serial_token_count": 2,
+        "ascii_serial_unique_count": 2,
+        "ascii_serial_min": 737,
+        "ascii_serial_max": 1036,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "q\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+          "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\n"
+        ]
+      }
+    },
+    {
+      "xref": 7,
+      "raw": {
+        "bytes": 214161,
+        "ascii_serial_token_count": 6321,
+        "ascii_serial_unique_count": 89,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 769,
+        "pdf_text_operator_count": 8,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t",
+          "\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182",
+          "\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!",
+          "' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!22222",
+          "9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!222222222222222222222",
+          "\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3",
+          "\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a",
+          "1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a%&'()*456789:C",
+          "\u0000\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015",
+          "\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ",
+          "\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56",
+          "q\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56789:CDEFGH"
+        ]
+      },
+      "decoded": {
+        "bytes": 4423680,
+        "ascii_serial_token_count": 8529,
+        "ascii_serial_unique_count": 410,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 9781,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 4,
+        "ascii_serial_samples": [
+          "QKOõðôÿýÿmhl@;?ÿþÿ224ddfÿÿÿ&')]^`åßã\u0018\u0012\u0016",
+          "\u000e¶´·ª¨«KKM\u001d\u001d\u001fÙÙÛ ¢RSU./1òëóúóûóìôýöþíæîäÝåýöþéâê",
+          "÷íö÷íö÷íöåÞæ÷ðøÿøÿøóúFAH3.5hcjUPWôðïÿýüÿýüìèççãâÿ",
+          "ö÷íö÷íöåÞæ÷ðøÿøÿøóúFAH3.5hcjUPWôðïÿýüÿýüìèççãâÿüû",
+          "ÆÀÄ£¢õðôìêíîìï779¤¤¦jkmôøùûÿÿüÿÿäèéwqu",
+          "ÎÈÌáÛßòíñøó÷èæéüúýññó557'(*üýÿíñò@DEÑÕÖ~âÜà[UY",
+          "âÜà[UYHBFüöúåàäPKOøöù;9<ÕÕ×--/ûüþABDÝáâIMNüÿÿ¨¬",
+          "º¶·òðñÿÿÿYYYìîíwyxÒÖÕ2868><ßåãMGIOIKÎÈÊÿýÿÉÅÆÍÉÊï",
+          "21ëïî¶º¹'-+x~|üöøòìî;57ÿýÿÇÃÄ[WXòðñ333ªªªKMLþÿÿ",
+          "üöøòìî;57ÿýÿÇÃÄ[WXòðñ333ªªªKMLþÿÿ8<;ÍÑÐ\u0010\u0016\u0014hnlPVT",
+          "ÿýÿÇÃÄ[WXòðñ333ªªªKMLþÿÿ8<;ÍÑÐ\u0010\u0016\u0014hnlPVTûõ÷ïéëSMOÚ",
+          "ìõöìõöìõõîöòëóìåíü÷þ=8?KFM¿ºÁ¼¸µ\u001b\u0017\u0014»·´IEBÝÙÖ\\X"
+        ]
+      }
+    },
+    {
+      "xref": 9,
+      "raw": {
+        "bytes": 52,
+        "ascii_serial_token_count": 5,
+        "ascii_serial_unique_count": 4,
+        "ascii_serial_min": 2,
+        "ascii_serial_max": 9,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "x+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±",
+          "+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000b",
+          "P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß"
+        ]
+      },
+      "decoded": {
+        "bytes": 56,
+        "ascii_serial_token_count": 2,
+        "ascii_serial_unique_count": 2,
+        "ascii_serial_min": 737,
+        "ascii_serial_max": 1036,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "q\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+          "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\n"
+        ]
+      }
+    },
+    {
+      "xref": 10,
+      "raw": {
+        "bytes": 219025,
+        "ascii_serial_token_count": 6526,
+        "ascii_serial_unique_count": 93,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 999,
+        "pdf_text_operator_count": 6,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t",
+          "\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182",
+          "\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!",
+          "' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!22222",
+          "9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!222222222222222222222",
+          "\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3",
+          "\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a",
+          "1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a%&'()*456789:C",
+          "\u0000\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015",
+          "\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ",
+          "\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56",
+          "q\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56789:CDEFGH"
+        ]
+      },
+      "decoded": {
+        "bytes": 4423680,
+        "ascii_serial_token_count": 9077,
+        "ascii_serial_unique_count": 509,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 9996,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 6,
+        "ascii_serial_samples": [
+          "&!'µ°¶ÿýÿa\\bàÞã¬ª¯+).75:_]bÿýÿZU[@;A94:ÿýÿ3.4HC",
+          "àÞã¬ª¯+).75:_]bÿýÿZU[@;A94:ÿýÿ3.4HCIÿýÿÿýÿûöüøì",
+          "+).75:_]bÿýÿZU[@;A94:ÿýÿ3.4HCIÿýÿÿýÿûöüøìúøìúø",
+          ".75:_]bÿýÿZU[@;A94:ÿýÿ3.4HCIÿýÿÿýÿûöüøìúøìúøìú",
+          "HCGYTXÿþÿìêíÿÿÿÔÔÖÿÿÿ78:ABD±²´ýûþØÖÙôòõñïòÿþÿ´²",
+          "øìö÷íö÷íõõîõôïõÃÁÄ::<RRT89;cgføüûõùøíóñöõóâáßúù÷ÿÿ",
+          "ÿþÿìêíìêíÎÌÏNLOÔÒÕµ³¶­«®715ûõùèâæùó÷¸³·àÞáJHKúúü",
+          "ëìçäåàhidtupòóî=>9ØÙÔ§¨£\\]XRSNZ[VTUPèéä",
+          "gggEEEôôôLLLÒÒÒ111LLLlll¾¾¾LLL¥¥¥'!#£üöø",
+          "ÿúü¯«¬lhiVVVÜÜÜ<>=ÀÂÁ376ØÜÛ-31Ñ×Õñ÷õÝÝÝ;;;ÉÉÉááá",
+          "hiVVVÜÜÜ<>=ÀÂÁ376ØÜÛ-31Ñ×Õñ÷õÝÝÝ;;;ÉÉÉáááÅÅÅÿÿÿ",
+          "^^^¼¼¼CCCJJJsssÐÐÐ777ÿÿÿªªªUUUûÿÿÖÜÚðöô-10öúù"
+        ]
+      }
+    },
+    {
+      "xref": 12,
+      "raw": {
+        "bytes": 52,
+        "ascii_serial_token_count": 5,
+        "ascii_serial_unique_count": 4,
+        "ascii_serial_min": 2,
+        "ascii_serial_max": 9,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "x+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±",
+          "+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000b",
+          "P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß"
+        ]
+      },
+      "decoded": {
+        "bytes": 56,
+        "ascii_serial_token_count": 2,
+        "ascii_serial_unique_count": 2,
+        "ascii_serial_min": 737,
+        "ascii_serial_max": 1036,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "q\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+          "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\n"
+        ]
+      }
+    },
+    {
+      "xref": 13,
+      "raw": {
+        "bytes": 216655,
+        "ascii_serial_token_count": 6398,
+        "ascii_serial_unique_count": 86,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 2698,
+        "pdf_text_operator_count": 5,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t",
+          "\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182",
+          "\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!",
+          "' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!22222",
+          "9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!222222222222222222222",
+          "\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3",
+          "\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a",
+          "1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a%&'()*456789:C",
+          "\u0000\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015",
+          "\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ",
+          "\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56",
+          "q\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56789:CDEFGH"
+        ]
+      },
+      "decoded": {
+        "bytes": 4423680,
+        "ascii_serial_token_count": 8832,
+        "ascii_serial_unique_count": 446,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 9653,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 2,
+        "ascii_serial_samples": [
+          "ñìóöñøìçîÿýÿèãêñìóÔÏÖçâé618¿º¾d_cÄ¿Ã§¢¦ÇÂÆÿýÿûöúª¥©",
+          "vqwÿûÿÿýÿ×ÒØùôúÒÍÓñìò4/54/5åàäÿüÿ[VZ¦¡¥WRVü÷ý6",
+          "wÿûÿÿýÿ×ÒØùôúÒÍÓñìò4/54/5åàäÿüÿ[VZ¦¡¥WRVü÷ý6175",
+          "ÿûÿÿýÿ×ÒØùôúÒÍÓñìò4/54/5åàäÿüÿ[VZ¦¡¥WRVü÷ý617506",
+          "VZ¦¡¥WRVü÷ý617506ÿýÿçâè>9?¿ºÀD?EÑÌÒWRXÍÈÎ?:@úõû<7",
+          "9?¿ºÀD?EÑÌÒWRXÍÈÎ?:@úõû<7=çâèýøþTOU-(.ÿýÿÃ¾Äz",
+          "èïøóùçâèÿûÿíèîÿýÿïêîéäè:67åáâèäå/+*éåäøó÷ïêîIDH",
+          "ÿüÿ/*.¾¹½^Y]\\W[¹´¸öñõðëï2-1ÔÏÓéäèùôøÇÂÆª¥©-(,{",
+          "ÿ/*.¾¹½^Y]\\W[¹´¸öñõðëï2-1ÔÏÓéäèùôøÇÂÆª¥©-(,{vz",
+          "¦¤©øöû\u0015\u0013\u0018õóø\u0014\u0012\u0017âàå,*/1/4ÑËËicc­§§\\VVüø÷þýûï",
+          "©øöû\u0015\u0013\u0018õóø\u0014\u0012\u0017âàå,*/1/4ÑËËicc­§§\\VVüø÷þýûïîì",
+          "ÑËËicc­§§\\VVüø÷þýûïîì775ssqAC@ÝßÜ~®³¯glh¾Ã¿idk"
+        ]
+      }
+    },
+    {
+      "xref": 15,
+      "raw": {
+        "bytes": 52,
+        "ascii_serial_token_count": 5,
+        "ascii_serial_unique_count": 4,
+        "ascii_serial_min": 2,
+        "ascii_serial_max": 9,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "x+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±",
+          "+ä*ä2P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000b",
+          "P\u0000Á¢t.}÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "÷`\u0003ôb®B\u0005C\u0003c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß",
+          "c3°¨¹±9NÎUÐ÷4PpÉW\bä\u0002A\u0000Z3\u000bß"
+        ]
+      },
+      "decoded": {
+        "bytes": 56,
+        "ascii_serial_token_count": 2,
+        "ascii_serial_unique_count": 2,
+        "ascii_serial_min": 737,
+        "ascii_serial_max": 1036,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "q\\nq\\n0 0 0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q",
+          "0 rg\\n/GS0 gs\\nq 1036 0 0 737 0 0 cm /I0 Do Q\\nQ\\nQ\\n"
+        ]
+      }
+    },
+    {
+      "xref": 16,
+      "raw": {
+        "bytes": 215735,
+        "ascii_serial_token_count": 6078,
+        "ascii_serial_unique_count": 78,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 894,
+        "pdf_text_operator_count": 6,
+        "hex_string_count": 0,
+        "ascii_serial_samples": [
+          "\u0019\u0012\u0013\u000f\u0014\u001d\u001a\u001f\u001e\u001d\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t",
+          "\u001a\u001c\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182",
+          "\u001c $.' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!",
+          "' \",#\u001c\u001c(7),01444\u001f'9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!22222",
+          "9=82<.342ÿÛ\u0000C\u0001\t\t\t\f\u000b\f\u0018\\r\\r\u00182!\u001c!222222222222222222222",
+          "\u0002\u0001\u0003\u0003\u0002\u0004\u0003\u0005\u0005\u0004\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3",
+          "\u0004\u0000\u0000\u0001}\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a",
+          "1A\u0006\u0013Qa\u0007\"q\u00142¡\b#B±Á\u0015RÑð$3br\t\\n\u0016\u0017\u0018\u0019\u001a%&'()*456789:C",
+          "\u0000\u0002\u0001\u0002\u0004\u0004\u0003\u0004\u0007\u0005\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015",
+          "\u0004\u0004\u0000\u0001\u0002w\u0000\u0001\u0002\u0003\u0011\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ",
+          "\u0004\u0005!1\u0006\u0012AQ\u0007aq\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56",
+          "q\u0013\"2\b\u0014B¡±Á\t#3Rð\u0015brÑ\\n\u0016$4á%ñ\u0017\u0018\u0019\u001a&'()*56789:CDEFGH"
+        ]
+      },
+      "decoded": {
+        "bytes": 4423680,
+        "ascii_serial_token_count": 8852,
+        "ascii_serial_unique_count": 438,
+        "ascii_serial_min": 1,
+        "ascii_serial_max": 9841,
+        "pdf_text_operator_count": 0,
+        "hex_string_count": 1,
+        "ascii_serial_samples": [
+          "ÚØÙù÷øéãçæàäÿýÿëæêßÚÞÿýÿ948gehðîñÁ¿Âõõ÷ááãÒÒÔýþÿÂÃÅ",
+          "\u001f\u001e\u001c>=;fecöõóONL)(&CB@ÂÁ¿542! \u001eÚÙ×'&$)(&653nmkc]a\"\u001c ",
+          ")(&CB@ÂÁ¿542! \u001eÚÙ×'&$)(&653nmkc]a\"\u001c éãçüöúæáåÜ×Û¦¤§",
+          "ïïñtuwfjk£§¨LPQmqr826éãç937°ª®726»¶ºÿþÿêèë··¹",
+          "tuwfjk£§¨LPQmqr826éãç937°ª®726»¶ºÿþÿêèë··¹335opr",
+          "fjk£§¨LPQmqr826éãç937°ª®726»¶ºÿþÿêèë··¹335oprêîï",
+          "éãç937°ª®726»¶ºÿþÿêèë··¹335oprêîï/34ÎÒÓ+/0öõó21/",
+          "¶ºÿþÿêèë··¹335oprêîï/34ÎÒÓ+/0öõó21/ÈÇÅìëéûúø{zx",
+          "335oprêîï/34ÎÒÓ+/0öõó21/ÈÇÅìëéûúø{zxÐÏÍÈÇÅùø",
+          "uy{ÿýÿytx¡ ÿýÿåàäàÛß:59ÿýÿZUY±¬°'\"&ðëï",
+          "¤¥ IJEÈÉÄª«¦¯°«÷øó12-ZTVý÷ùòîï}yz::",
+          "CD?ñòí¼½¸nojÿÿûsto¤¥ ÓÔÏ7=;ðöôùýüïñð«­¬n"
+        ]
+      }
+    }
+  ],
+  "trailer_sample": "<<\n  /ID [ <9885C9904BDA0349A3FBAA0B2E183263> <9885C9904BDA0349A3FBAA0B2E183263> ]\n  /Info 1 0 R\n  /Root 2 0 R\n  /Size 56\n>>"
+}

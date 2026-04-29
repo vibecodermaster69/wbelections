@@ -1,0 +1,55 @@
+ac_no,ac_name,winner_candidate,winner_party,winner_votes,runner_candidate,runner_party,runner_votes,source,district,region_scope
+1,Mekliganj (SC),Paresh Chandra Adhikary,TMC,99338,Dadhiram Ray,BJP,84653,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+2,Mathabhanga (SC),Sushil Barman,BJP,113249,Girindra Nath Barman,TMC,87115,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+3,Cooch Behar Uttar (SC),Sukumar Roy,BJP,120483,Binay Krishna Barman,TMC,105868,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+4,Cooch Behar Dakshin,Nikhil Ranjan Dey,BJP,96629,Avijit De Bhowmik,TMC,91830,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+5,Sitalkuchi (SC),Baren Chandra Barman,BJP,124955,Partha Pratim Ray,TMC,107140,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+6,Sitai (SC),Jagadish Chandra Barma Basunia,TMC,117908,Dipak Kumar Roy,BJP,107796,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+7,Dinhata,Nisith Pramanik,BJP,116035,Udayan Guha,TMC,115978,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+8,Natabari,Mihir Goswami,BJP,111743,Rabindra Nath Ghosh,TMC,88303,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+9,Tufanganj,Malati Rava Roy,BJP,114503,Pranab Kumar Dey,TMC,83305,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Cooch Behar,North Bengal
+10,Kumargram (ST),Manoj Kumar Oraon,BJP,111974,Leos Kujar,TMC,100973,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Alipurduar,North Bengal
+11,Kalchini (ST),Bishal Lama,BJP,103104,Pasang Lama,TMC,74528,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Alipurduar,North Bengal
+12,Alipurduars,Suman Kanjilal,BJP,107333,Sourav Chakraborty,TMC,91326,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Alipurduar,North Bengal
+13,Falakata,Dipak Barman,BJP,102993,Subhash Chanda Roy,TMC,99003,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Alipurduar,North Bengal
+14,Madarihat,Manoj Tigga,BJP,90718,Rajesh Lakra,TMC,61033,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Alipurduar,North Bengal
+15,Dhupguri (SC),Bishnu Pada Ray,BJP,104688,Mitali Roy,TMC,100333,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+16,Maynaguri (SC),Kaushik Roy,BJP,115306,Manoj Roy,TMC,103395,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+17,Jalpaiguri (SC),Pradip Kumar Barma,TMC,95668,Sujit Singha,BJP,94727,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+18,Rajganj (SC),Khageswar Roy,TMC,104641,Supen Roy,BJP,88868,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+19,Dabgram-Phulbari,Sikha Chatteree,BJP,129088,Goutam Deb,TMC,101495,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+20,Mal (ST),Bulu Chik Baraik,TMC,99086,Mahesh Bagey,BJP,93621,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+21,Nagrakata (ST),Puna Bhengra,BJP,70945,Joseph Munda,TMC,56543,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Jalpaiguri,North Bengal
+22,Kalimpong,Ruden Sada Lepcha,GJM (TAMANG),58206,Suva Pradhan,BJP,54336,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Kalimpong,North Bengal
+23,Darjeeling,Neeraj Zimba,BJP,68907,Keshav Raj Sharma,GJM (TAMANG),47631,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Darjeeling,North Bengal
+24,Kurseong,Bishnu Prasad Sharma,BJP,73475,Tshering Lama Dahal,GJM (TAMANG),57960,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Darjeeling,North Bengal
+25,Matigara-Naxalbari (SC),Anandamoy Barman,BJP,139785,Rajen Sundas,TMC,68454,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Darjeeling,North Bengal
+26,Siliguri,Shankar Ghosh,BJP,89370,Om Prakash Mishra,TMC,53784,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Darjeeling,North Bengal
+27,Phansidewa (ST),Durga Murmu,BJP,105651,Choton Kisku,TMC,77940,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Darjeeling,North Bengal
+28,Chopra,Hamidul Rahaman,TMC,124923,Md. Shahin Akhtar,BJP,59604,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+29,Islampur,Abdul Karim Chowdhury,TMC,100131,Saumya Roop Mandal,BJP,62691,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+30,Goalpokhar,Md. Ghulam Rabbani,TMC,105649,Gulam Sarwar,BJP,32135,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+31,Chakulia,Minhajul Arfin Azad,TMC,86311,Sachin Prasad,BJP,52474,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+32,Karandighi,Goutam Pal,TMC,116594,Subhash Singha,BJP,79968,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+33,Hemtabad (SC),Satyajit Burman,TMC,116425,Chandima Roy,BJP,89210,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+34,Kaliaganj (SC),Soumen Roy,BJP,116768,Tapan Dev Singha,TMC,94948,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+35,Raiganj,Krishna Kalyani,BJP,79775,Kanaia Lal Agarwal,TMC,59027,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+36,Itahar,Mosaraf Hossain,TMC,114645,Amit Kumar Kundu,BJP,70670,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Uttar Dinajpur,North Bengal
+37,Kushmandi (SC),Rekha Roy,TMC,89968,Ranjit Kumar Roy,BJP,77384,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+38,Kumarganj,Toraf Hossain Mondal,TMC,89117,Manas Sarkar,BJP,59736,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+39,Balurghat,Ashok Lahiri,BJP,70484,Sekhar Dasgupta,TMC,57585,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+40,Tapan (ST),Budhrai Tudu,BJP,84381,Kalpana Kisku,TMC,82731,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+41,Gangarampur (SC),Satyendra Nath Ray,BJP,88724,Goutam Das,TMC,84132,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+42,Harirampur,Biplab Mitra,TMC,96131,Nilanjan Roy,BJP,73459,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Dakshin Dinajpur,North Bengal
+43,Habibpur (ST),Joyel Murmu,BJP,94075,Prodip Baskey,TMC,74558,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+44,Gazole (SC),Chinmoy Deb Barman,BJP,100655,Basanti Barman,TMC,98857,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+45,Chanchal,Nihar Ranjan Ghosh,TMC,115966,Dipankar Ram,BJP,48628,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+46,Harishchandrapur,Tajmul Hossain,TMC,122527,Matibur Rahaman,BJP,45054,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+47,Malatipur,Abdur Rahim Boxi,TMC,126157,Mousumi Das,BJP,34208,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+48,Ratua,Samar Mukherjee,TMC,130674,Abhishek Singhania,BJP,55024,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+49,Manikchak,Sabitri Mitra,TMC,110234,Gour Chandra Mandal,BJP,76356,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+50,Maldaha,Gopal Chandra Saha,BJP,93398,Ujjwal Kumar Chowdhury,TMC,77942,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+51,English Bazar,Sreerupa Mitra Chaudhury,BJP,107755,Krishnendu Narayan Choudhury,TMC,87656,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+52,Mothabari,Yeasmin Sabina,TMC,97397,Shyamchand Ghosh,BJP,40824,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+53,Sujapur,Md. Abdul Ghani,TMC,152445,Isha Khan Choudhury,INC,22282,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal
+54,Baisnabnagar,Chandana Sarkar,TMC,83061,Swadhin Kumar Sarkar,BJP,80590,https://en.wikipedia.org/wiki/Results_of_the_2021_West_Bengal_Legislative_Assembly_election,Malda,North Bengal

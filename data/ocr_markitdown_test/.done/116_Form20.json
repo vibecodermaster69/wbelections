@@ -1,0 +1,7 @@
+{
+  "source_pdf": "data\\raw\\form20\\116_Form20.pdf",
+  "provider": "markitdown",
+  "credential_name": "NO_LLM_CLIENT",
+  "text_path": "data\\ocr_markitdown_test\\markitdown_markdown\\116_Form20.md",
+  "searchable_pdf_path": null
+}
